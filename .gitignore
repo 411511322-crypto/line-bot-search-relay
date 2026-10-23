@@ -1,0 +1,10 @@
+# Security / Sensitive Keys
+.line-search-relay.key
+*.key
+*.env
+.env*
+
+# Node / System
+node_modules/
+.DS_Store
+Thumbs.db
